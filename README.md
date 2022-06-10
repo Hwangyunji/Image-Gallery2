@@ -1,5 +1,5 @@
-# Image-Gallery2
-https://hwangyunji.github.io/Image-Gallery2/
+# Next-Gallery
+https://hwangyunji.github.io/Next-Gallery/
 ## 소개
 넘기기 기능 Basic 갤러리
 ## 기능 설명
